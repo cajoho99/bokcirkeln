@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "author": "Aldous Huxley",
+      "title": "Brave New World",
+      "id": "bnw",
+      "final_score": "8/10"
+    },
+    {
+      "author": "Genki Kawamura",
+      "title": "If Cats Disappeared from the World",
+      "id": "katter",
+      "final_score": "8/10"
+    },
+    {
+      "author": "Carole Matthew",
+      "title": "Julstämning på Lyckans Gård",
+      "id": "julstamning",
+      "final_score": "5/10"
+    },
+    {
+      "author": "Brandon Sanderson",
+      "title": "Tress of the Emerald Sea",
+      "id": "tress",
+      "final_score": "8/10"
+    }
+  ]
+}
